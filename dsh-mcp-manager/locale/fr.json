@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Gestionnaire MCP",
+    "description": "Afficher, installer et désactiver les serveurs MCP, et choisir les MCP installés qu'une tâche peut utiliser."
+  }
+}
