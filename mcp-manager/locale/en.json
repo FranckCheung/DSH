@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP manager",
+    "description": "View, install, and disable MCP servers configured in this profile, and choose which installed MCPs a task may use."
+  }
+}
